@@ -3,12 +3,12 @@ import { Calendar, Trophy, Users } from "lucide-react"
 
 export function Hero() {
   return (
-    <section className="relative pt-24 pb-16 md:pt-32 md:pb-24 bg-gradient-to-br from-primary via-primary to-[oklch(0.45_0.25_22)]">
+    <section className="relative pt-24 pb-16 md:pt-32 md:pb-24 bg-linear-to-br from-primary via-primary to-[rgb(147, 91, 92)]">
       <div className="absolute inset-0 opacity-10">
         <div
           className="absolute inset-0"
           style={{
-            backgroundImage: `url('/soccer-stadium-aerial-view.jpg')`,
+            backgroundImage: "url('./images/soccer-stadium-aerial-view.webp')",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
