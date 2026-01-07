@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "titulo": "Empate del Primer Equipo",
+      "categoria": "Fútbol Mayor",
+      "fecha": "25 de Diciembre, 2024",
+      "descripcion": "Empate 1-1 ante Defensores de Armstrong. Gol de Aquiles Heffeli.",
+      "contenidoCompleto":
+        "El primer equipo de CAYBC empato 1-1 ante Defensores de Armstrong en un partido lleno de emociones. Los goles llegaron en el primer tiempo con Martínez abriendo el marcador a los 15 minutos, seguido por Sánchez a los 28 minutos. En el segundo tiempo, el rival descontó, pero López sentenció el partido a los 82 minutos con un golazo de tiro libre. Excelente actuación del equipo que continúa en la cima de la tabla.",
+      "imagenes": [
+        "./images/image1.jpg",
+        "./images/image2.jpg",
+        "./images/image3.jpg"
+      ],
+      "icon": "Trophy"
+    },
+    {
+      "id": 2,
+      "titulo": "Fichajes Temporada 2026",
+      "categoria": "Futbol Mayor",
+      "fecha": "07 de Enero, 2026",
+      "descripcion": "Nuestro equipo ha incorporado a nuevos fichajes.",
+      "contenidoCompleto":
+        "El Club Atlético y Biblioteca Campaña le da la bienvenida a los nuevos jugadores que se suman al plantel superior para afrontar el Torneo Apertura 2026 de la Liga Cañadense. Bajo la conducción de Pablo Franquelli, junto a Gastón Pérez como ayudante de campo y Matías Rescio como preparador físico, dando inicio a la pretemporada el próximo lunes 12, llegan para reforzar al equipo",
+      "imagenes": ["./images/fichajes1.webp", "./images/fichajes2.webp", "./images/fichajes3.webp", "./images/fichajes4.webp", "./images/fichajes5.webp", "./images/fichajes6.webp"],
+      "icon": "Trophy"
+    },
+    {
+      "id": 3,
+      "titulo": "Inauguración de Nueva Temporada de Pileta",
+      "categoria": "Natación",
+      "fecha": "20 de Diciembre, 2024",
+      "descripcion": "El Caribe al Rojo abrió sus puertas para el verano...",
+      "contenidoCompleto":
+        "El complejo Caribe al Rojo dio inicio a la temporada de verano...",
+      "imagenes": ["/swimming-pool-summer-activities.jpg", "/pool-bar-area.jpg", "/pool-aerial-view.jpg"],
+      "icon": "Users2"
+    }
+]
