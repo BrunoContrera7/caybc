@@ -162,7 +162,7 @@ export function Tienda() {
                       <div className="p-4 space-y-3 flex-1 flex flex-col">
                         <div className="flex-1">
                           <h3 className="font-bold text-lg mb-1 line-clamp-1">{product.name}</h3>
-                          <p className="text-sm text-muted-foreground line-clamp-2 min-h-[2.5rem]">
+                          <p className="text-sm text-muted-foreground line-clamp-2 min-h-10">
                             {product.description}
                           </p>
                         </div>
