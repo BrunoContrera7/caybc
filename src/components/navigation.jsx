@@ -7,6 +7,7 @@ export function Navigation() {
 
   const navLinks = [
     { href: "#noticias", label: "Noticias" },
+    { href: "#tienda", label: "Tienda Oficial" },
     { href: "#deportes", label: "Deportes" },
     { href: "#caribe", label: "Caribe al Rojo" },
     { href: "#salon", label: "Salón de Fiestas" },
@@ -19,13 +20,17 @@ export function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
-              <img src="./images/logo-caybc.png" alt="Logo Campaña" className="bg-transparent"/>
+            <div className="flex items-center gap-3">
+              <a href="/" className="no-underline">
+                <img src="./images/logo-caybc.png" alt="Logo Campaña" className="h-10 w-auto"/>
+              </a>
             </div>
             <div className="hidden md:block">
-              <span className="font-bold text-lg">
-                Club Atlético y Biblioteca Campaña
-              </span>
+              <a href="/" className="no-underline">
+                <span className="font-bold text-lg">
+                  Club Atlético y Biblioteca Campaña
+                </span>
+              </a>
             </div>
           </div>
 

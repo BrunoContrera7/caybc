@@ -33,7 +33,7 @@ export function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <a href="https://www.google.com/maps/place/Club+Atl%C3%A9tico+y+Biblioteca+Campa%C3%B1a/@-32.8561765,-61.1499806,18z/data=!4m6!3m5!1s0x95b625c96e2c5acf:0x87f6c1f105faafc7!8m2!3d-32.8573296!4d-61.1487297!16s%2Fg%2F11q2tjkh9g?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D" target="_blank" rel="noopener noreferrer">
-              <Button size="lg" className="bg-white text-primary hover:bg-white/90 font-semibold">
+              <Button size="lg" className="bg-white text-red-500 hover:bg-white/90 font-semibold">
               Hacete Socio
             </Button>
             </a>
